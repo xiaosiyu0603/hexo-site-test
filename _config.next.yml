@@ -103,7 +103,9 @@ menu:
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
-  page_test: /page_test/ || fa-solid fa-terminal fa-shake
+  Page Test:
+    default: /page_test/ || fa-solid fa-terminal fa-shake
+    Subpage Test: /subpage_test.html || fa fa-rocket
   #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
