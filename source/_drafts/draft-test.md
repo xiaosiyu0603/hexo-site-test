@@ -1,4 +1,4 @@
 ---
 title: draft_test
-tags: test, draft
+tags: [test, draft]
 ---

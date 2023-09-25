@@ -130,3 +130,8 @@ sitemap:
   rel: false
   tags: true
   categories: true
+
+# Hexo Generator Tag
+## Docs: https://github.com/hexojs/hexo-generator-tag
+tag_generator:
+  enable_index_page: true

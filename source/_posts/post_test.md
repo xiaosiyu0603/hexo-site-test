@@ -1,7 +1,7 @@
 ---
 title: post_test
 date: 2023-09-26 00:42:49
-tags: post, test
+tags: [post, test]
 ---
 # Post Test
 
