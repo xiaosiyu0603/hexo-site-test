@@ -1,5 +1,9 @@
-https://xiaosiyu0603.github.io/hexo-site-test/2023/09/25/hello-world/
+https://xiaosiyu0603.github.io/hexo-site-test/1969/12/31/hello-world/
 https://xiaosiyu0603.github.io/hexo-site-test/2023/09/25/post_test/
+https://xiaosiyu0603.github.io/hexo-site-test/2023/09/25/top-post/
 https://xiaosiyu0603.github.io/hexo-site-test/page_test/index.html
+https://xiaosiyu0603.github.io/hexo-site-test/page_test/subpage_test.html
 https://xiaosiyu0603.github.io/hexo-site-test
-https://xiaosiyu0603.github.io/hexo-site-test/tags/post-test/
+https://xiaosiyu0603.github.io/hexo-site-test/tags/test/
+https://xiaosiyu0603.github.io/hexo-site-test/tags/post/
+https://xiaosiyu0603.github.io/hexo-site-test/tags/pin-top/

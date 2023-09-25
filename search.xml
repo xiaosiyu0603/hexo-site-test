@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/hexo-site-test/2023/09/25/hello-world/</url>
+    <url>/hexo-site-test/1969/12/31/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -25,7 +25,18 @@
 <h1 id="Another"><a href="#Another" class="headerlink" title="Another"></a>Another</h1><p>test</p>
 ]]></content>
       <tags>
-        <tag>post, test</tag>
+        <tag>test</tag>
+        <tag>post</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>置顶测试</title>
+    <url>/hexo-site-test/2023/09/25/top-post/</url>
+    <content><![CDATA[<h1 id="置顶文章测试"><a href="#置顶文章测试" class="headerlink" title="置顶文章测试"></a>置顶文章测试</h1><h2 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h2><h3 id="H3"><a href="#H3" class="headerlink" title="H3"></a>H3</h3><h4 id="H4"><a href="#H4" class="headerlink" title="H4"></a>H4</h4><p>测试</p>
+]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>pin-top</tag>
       </tags>
   </entry>
 </search>

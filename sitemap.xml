@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xiaosiyu0603.github.io/hexo-site-test/2023/09/25/hello-world/</loc>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/1969/12/31/hello-world/</loc>
     
     <lastmod>2023-09-25</lastmod>
     
@@ -20,7 +20,25 @@
   </url>
   
   <url>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/2023/09/25/top-post/</loc>
+    
+    <lastmod>2023-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaosiyu0603.github.io/hexo-site-test/page_test/index.html</loc>
+    
+    <lastmod>2023-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/page_test/subpage_test.html</loc>
     
     <lastmod>2023-09-25</lastmod>
     
@@ -38,7 +56,21 @@
 
   
   <url>
-    <loc>https://xiaosiyu0603.github.io/hexo-site-test/tags/post-test/</loc>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/tags/test/</loc>
+    <lastmod>2023-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/tags/post/</loc>
+    <lastmod>2023-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaosiyu0603.github.io/hexo-site-test/tags/pin-top/</loc>
     <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
