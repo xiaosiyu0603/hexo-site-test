@@ -4,12 +4,12 @@
 
 # Site
 title: Hexo Site Test
-subtitle: 'subtitle'
-description: 'description'
+subtitle: 'Now testing NexT ...'
+description: 'A site to test hexo.'
 keywords: hexo, test
-author: John Doe
-language: en
-timezone: ''
+author: Xiao Siyu
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -105,3 +105,28 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Local Search
+## Docs: https://theme-next.js.org/docs/third-party-services/search-services#Local-Search
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+# Hexo NexT Fireworks
+## Docs: https://github.com/next-theme/hexo-next-fireworks
+fireworks:
+  enable: true
+
+# Hexo Generator Sitemap
+## Docs: https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  # template: ./sitemap_template.xml
+  # template_txt: ./sitemap_template.txt
+  rel: false
+  tags: true
+  categories: true
