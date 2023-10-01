@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://xiaosiyu0603.github.io/hexo-site-test
-root: /hexo-site-test/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,7 +104,14 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: rsync
+  host: localhost
+  user: user
+  root: /run/shm/hexo-html
+  port: 22
+  delete: true
+  verbose: false
+  ignore_errors: true
 
 # Local Search
 ## Docs: https://theme-next.js.org/docs/third-party-services/search-services#Local-Search
