@@ -9,8 +9,6 @@ sticky: 100
 
 # 置顶文章测试
 
-![测试图片](/images/已回到人才库.jpg)
-
 1
 
 {% video /hexo-site-test/videos/CeddinDeden.mp4 %}
@@ -40,3 +38,29 @@ sticky: 100
 {% asset_link /hexo-site-test/videos/CeddinDeden.mp4 title %}
 
 8
+
+![测试图片](/images/已回到人才库.jpg)
+
+9
+
+{% asset_img /images/已回到人才库.jpg title %}
+
+10
+
+{% asset_img /hexo-site-test/images/已回到人才库.jpg title %}
+
+11
+
+{% asset_link /images/已回到人才库.jpg title %}
+
+12
+
+{% asset_link /hexo-site-test/images/已回到人才库.jpg title %}
+
+13
+
+{% asset_path /images/已回到人才库.jpg title %}
+
+14
+
+{% asset_path /hexo-site-test/images/已回到人才库.jpg title %}
