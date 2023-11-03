@@ -15,7 +15,7 @@ sticky: 100
 
 2
 
-{% asset_path /videos/CeddinDeden.mp4 %}
+{% iframe /videos/CeddinDeden.mp4 %}
 
 3
 
@@ -27,7 +27,7 @@ sticky: 100
 
 5
 
-{% asset_path /hexo-site-test/videos/CeddinDeden.mp4 %}
+{% iframe /hexo-site-test/videos/CeddinDeden.mp4 %}
 
 6
 
@@ -43,19 +43,19 @@ sticky: 100
 
 9
 
-{% asset_img /images/已回到人才库.jpg title %}
+{% iframe /images/已回到人才库.jpg title %}
 
 10
 
-{% asset_img /hexo-site-test/images/已回到人才库.jpg title %}
+{% iframe /hexo-site-test/images/已回到人才库.jpg title %}
 
 11
 
-{% asset_link /images/已回到人才库.jpg title %}
+{% img /images/已回到人才库.jpg title %}
 
 12
 
-{% asset_link /hexo-site-test/images/已回到人才库.jpg title %}
+{% img /hexo-site-test/images/已回到人才库.jpg title %}
 
 13
 
