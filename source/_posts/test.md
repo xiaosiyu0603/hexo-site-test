@@ -11,4 +11,4 @@ sticky: 100
 
 ![测试图片](/images/已回到人才库.jpg)
 
-{% video "/videos/Ceddin Deden.mp4" %}
+{% video /videos/CeddinDeden.mp4 %}
